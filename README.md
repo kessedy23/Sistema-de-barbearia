@@ -157,6 +157,6 @@ Após gerar, faça um `UPDATE` na tabela `usuarios`.
 
 ## Autor
 
-**[Seu Nome Completo]**  
+**Késsedy Rodrigues Araujo**  
 Disciplina: Banco de Dados — UNIFSA  
 Professor: Anderson Costa
