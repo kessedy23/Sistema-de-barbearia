@@ -151,8 +151,7 @@ Após gerar, faça um `UPDATE` na tabela `usuarios`.
 
 ## Link do Vídeo
 
-> https://drive.google.com/file/d/12R7pCFBHQBXMt9ymoaE8t-yinC4RvjPH/view?usp=drive_link
-
+https://drive.google.com/file/d/1LvzSNOP3Q6Ftc6gjGoiD_WODkBDvRL-N/view?usp=drive_link
 ---
 
 ## Autor
