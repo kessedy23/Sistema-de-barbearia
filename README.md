@@ -73,13 +73,11 @@ barbearia-bd/
 
 ## Prints da Aplicação
 
-> *(Adicione os screenshots aqui após rodar o sistema)*
-
 | Tela | Descrição |
 |------|-----------|
-| `prints/login.png` | Tela de login |
-| `prints/menu.png` | Menu principal (abas) |
-| `prints/relatorio_join.png` | Resultado de consulta com JOIN |
+| ![Login](prints/login.png) | Tela de login |
+| ![Menu](prints/menu.png) | Menu principal (abas) |
+| ![Relatório](prints/relatorio_join.png) | Resultado com JOIN |
 
 ---
 
